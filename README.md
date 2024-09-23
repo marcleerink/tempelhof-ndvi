@@ -2,6 +2,7 @@
 
 This project calculates the Normalized Difference Vegetation Index (NDVI) for a specified area using SentinelHub's Statistical API. The images used are atmospherically corrected, and clouds are filtered out based on the Scene Classification Map (SCL) and Cloud Mask (CLM).
 
+
 ## Requirements
 
 - Python 3.6+
@@ -110,3 +111,10 @@ The `evalscript` is a JavaScript code that runs on the SentinelHub server to pro
     ```sh
     python plot.py
     ```
+
+
+## Results
+
+
+
+![NDVI Mean Values Over Time](./data/ndvi_mean.pngdata/ndvi_mean.png)
