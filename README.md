@@ -117,4 +117,4 @@ The `evalscript` is a JavaScript code that runs on the SentinelHub server to pro
 
 
 
-![NDVI Mean Values Over Time](./data/ndvi_mean.pngdata/ndvi_mean.png)
+![NDVI Mean Values Over Time](data/ndvi_mean.pngdata/ndvi_mean.png)
