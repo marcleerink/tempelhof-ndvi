@@ -1,0 +1,12 @@
+[project]
+name = "templehof-ndvi"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "sentinelhub>=3.11.0",
+    "python-dotenv>=1.0.1",
+    "matplotlib>=3.9.2",
+    "pandas>=2.2.3",
+]
